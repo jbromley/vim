@@ -1,0 +1,36 @@
+[submodule "pack/plugins/start/neovim-colors-solarized-truecolor-only"]
+	path = pack/plugins/start/neovim-colors-solarized-truecolor-only
+	url = https://github.com/frankier/neovim-colors-solarized-truecolor-only
+[submodule "pack/plugins/start/oceanic-next"]
+	path = pack/plugins/start/oceanic-next
+	url = https://github.com/mhartington/oceanic-next
+[submodule "pack/plugins/start/fzf"]
+	path = pack/plugins/start/fzf
+	url = https://github.com/junegunn/fzf
+[submodule "pack/plugins/start/fzf.vim"]
+	path = pack/plugins/start/fzf.vim
+	url = https://github.com/junegunn/fzf
+[submodule "pack/plugins/start/nerdtree"]
+	path = pack/plugins/start/nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule "pack/plugins/start/vim-fugitive"]
+	path = pack/plugins/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "pack/plugins/opt/vim-dadbod"]
+	path = pack/plugins/opt/vim-dadbod
+	url = https://github.com/tpope/vim-dadbod
+[submodule "pack/plugins/start/vimwiki"]
+	path = pack/plugins/start/vimwiki
+	url = https://github.com/vimwiki/vimwiki
+[submodule "pack/plugins/opt/unicode.vim"]
+	path = pack/plugins/opt/unicode.vim
+	url = https://github.com/chrisbra/unicode.vim
+[submodule "pack/plugins/start/vim-commentary"]
+	path = pack/plugins/start/vim-commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule "pack/plugins/start/vim-elixir"]
+	path = pack/plugins/start/vim-elixir
+	url = https://github.com/elixir-editors/vim-elixir
+[submodule "pack/plugins/start/YouCompleteMe"]
+	path = pack/plugins/start/YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe

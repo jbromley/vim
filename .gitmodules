@@ -1,8 +1,8 @@
 [submodule "pack/plugins/start/neovim-colors-solarized-truecolor-only"]
-	path = pack/plugins/start/neovim-colors-solarized-truecolor-only
+	path = pack/colors/start/neovim-colors-solarized-truecolor-only
 	url = https://github.com/frankier/neovim-colors-solarized-truecolor-only
 [submodule "pack/plugins/start/oceanic-next"]
-	path = pack/plugins/start/oceanic-next
+	path = pack/colors/start/oceanic-next
 	url = https://github.com/mhartington/oceanic-next
 [submodule "pack/plugins/start/fzf"]
 	path = pack/plugins/start/fzf
